@@ -1,0 +1,15 @@
+{
+  "problems": [
+    {
+      "hash": "774329a",
+      "data": [
+        "NullPointerCheck",
+        "Possible NullPointerException",
+        "A.java",
+        "10:1:2",
+        "WARNING",
+        "CWE-476"
+      ]
+    }
+  ]
+}
