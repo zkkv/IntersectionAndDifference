@@ -1,2 +1,2 @@
-rootProject.name = "IntersectionAndExclusiveOr"
+rootProject.name = "IntersectionAndDifference"
 
