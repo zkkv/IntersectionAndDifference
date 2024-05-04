@@ -16,12 +16,6 @@ public class Main {
         String outPath2 = scanner.next();
         String outPathBoth = scanner.next();
 
-        System.out.println(inPath1);
-        System.out.println(inPath2);
-        System.out.println(outPath1);
-        System.out.println(outPath2);
-        System.out.println(outPathBoth);
-
         String contents1 = Files.readString(Paths.get(inPath1));
         String contents2 = Files.readString(Paths.get(inPath2));
 
